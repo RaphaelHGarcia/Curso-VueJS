@@ -14,8 +14,8 @@ Estudaremos diretamente a **versão 2.0!**
 
 1. Introdução  
 1.1 O que é VueJS?  
-1.2 VueJS VS AngularJS VS React  
-1.3 Por que usar VueJS? Como ele está no mercado?  
+1.2 Por que usar VueJS? Como ele está no mercado?  
+1.2.1 Showcase  
 2. Instalação e hello world  
 3. Instancia Vue
 4. Filters
