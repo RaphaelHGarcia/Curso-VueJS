@@ -2,7 +2,7 @@
 
 Primeiramente vamos aprender a pronúncia correta. Fala-se **view** *(/vjuː/)* e não **vue**. Ele foi criado pelo [Evan You](https://github.com/yyx990803) em 2014.
 
-O VueJS é um framework javascript progressivo, para desenvolvermos iterfaces web robustas e complexas. Ele é baseado em componentes reativos para aplicações web modernas. Com ele, como já citado, podemos criar aplicações web iterativas, complexas e robustas.
+O VueJS é um framework javascript progressivo, para desenvolvermos interfaces web robustas e complexas. Ele é baseado em componentes reativos para aplicações web modernas. Com ele, como já citado, podemos criar aplicações web iterativas, complexas e robustas.
 
 Ele não é considerado um framework *full stack*, ou seja do *back-end* ao *front-end*. Ele é focado **exclusivamente** para a camada da **view**!
 
